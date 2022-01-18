@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Taskaev Artur
-* Codeship : [![Java CI with Maven](https://github.com/ArturTask/javaschoolexam/actions/workflows/maven.yml/badge.svg)](https://github.com/ArturTask/javaschoolexam/actions/workflows/maven.yml)
+* Java CI with Maven : [![Java CI with Maven](https://github.com/ArturTask/javaschoolexam/actions/workflows/maven.yml/badge.svg)](https://github.com/ArturTask/javaschoolexam/actions/workflows/maven.yml)
 
 
 ### How to start?  ###
